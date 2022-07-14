@@ -1,0 +1,19 @@
+{
+  "name": "project_3_interactive_form",
+  "version": "1.0.0",
+  "description": "TEAMTREHOUSE.COM FULL STACK JAVASCRTIPT TECH DEGREE PROJECT 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OGUNSOLA/PROJECT_3_INTERACTIVE_FORM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OGUNSOLA/PROJECT_3_INTERACTIVE_FORM/issues"
+  },
+  "homepage": "https://github.com/OGUNSOLA/PROJECT_3_INTERACTIVE_FORM#readme"
+}
